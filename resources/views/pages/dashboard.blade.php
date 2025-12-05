@@ -2,7 +2,6 @@
 @section('title', 'Dashboard')
 @section('content')
 
-
         <!-- Content -->
             <div class="row">
                 <!-- View sales -->
