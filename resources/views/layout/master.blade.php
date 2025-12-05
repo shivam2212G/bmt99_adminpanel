@@ -134,7 +134,7 @@
                     <li class="menu-item {{ request()->routeIs('products.delete','products.update','products.edit','products.store','products.create','products.index') ? 'active' : '' }}">
                         <a href="{{route('products.index')}}" class="menu-link">
                             <i class="menu-icon tf-icons ti ti-mail"></i>
-                            <div data-i18n="Product">Product</div>
+                            <div data-i18n="Product">Products</div>
                         </a>
                     </li>
 
